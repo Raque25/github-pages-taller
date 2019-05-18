@@ -1,7 +1,7 @@
 ![Foto de planta](https://www.ambientum.com/wp-content/uploads/2018/08/planta-696x463.jpg)
 # Planta.me 
 
-App que te muestra a cuidar una planta 🌎 :earth_americas:
+App que te muestra a cuidar una planta 🌎
 
 ## Que es lo que abarca
 Que la gente comience a plantar, sobretodo los:
